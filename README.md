@@ -1,2 +1,2 @@
 # event-flyer
-FCC Absolute &amp; Relative Units Lab
+FCC Absolute and Relative Units Lab
