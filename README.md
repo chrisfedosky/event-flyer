@@ -34,6 +34,6 @@ git push -u feature/branch name
 open gitHub, click 'compare pull request'
 review each time and click: 
 'create pull request', 'merge pull request", 'confirm'
-delete branch for now.
+delete branch if you want. if you don't. will the pull come from branch un-deleted or from main?'
 
 git status in Terminal to check for outstanding commits
