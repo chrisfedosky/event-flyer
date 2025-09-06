@@ -1,5 +1,5 @@
 # event-flyer
-FCC Absolute and Relative Units Lab
+fCC Absolute and Relative Units Lab
 Practice a "branch workflow"
 
 git "feature branch management" website homepage build
